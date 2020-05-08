@@ -8,7 +8,7 @@ window.onload=function(){
     context.lineWidth=5;
     context.strokeStyle="black";
     context.stroke();
-    drawLevel();
+    
     
 };
 var x=50;
